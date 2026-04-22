@@ -47,9 +47,3 @@ Now, I am not claiming to have proven anything or to have discovered the secret 
 So this repo is not a polished theory of intelligence. It is a working concept space.
 
 A place to refine the idea, break it into narrower claims, collect relevant research, and push it toward something more testable.
-
-## The shorter version
-
-Humans may learn efficiently because we are shaped by multiple qualitatively different signal types at once. If AI systems could train against a richer set of functionally distinct internal signals—sensory, evaluative, and regulatory—they might learn with less experience and lower cost too.
-
-Tactile grounding and “pain”-like signals are just the first concrete branch of that idea.
