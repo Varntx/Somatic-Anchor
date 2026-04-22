@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this hypothesis, please cite it as below."
+authors:
+  - family-names: "Damodaran"
+    given-names: "Nikil N"
+title: "Somatic Anchor: A Hypothesis on Embodied Signal Compression"
+date-released: 2026-04-22
+url: "https://github.com/your-username/somatic-anchor"
